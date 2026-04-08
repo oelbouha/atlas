@@ -7653,7 +7653,7 @@ ai3:function ai3(){},
 ai4:function ai4(a){this.a=a},
 Ek:function Ek(){},
 KH(a){var s=new A.a8G(a/1440)
-return new A.a8F(s.$3(54,22,62),s.$3(42,18,50),s.$3(28,14,34),s.$3(24,12,30),s.$3(100,44,134),s.$3(24,13,30),s.$3(20,10,26),s.$3(34,14,46),s.$3(18,8,22))},
+return new A.a8F(s.$3(48,22,60),s.$3(42,18,50),s.$3(28,14,34),s.$3(24,12,30),s.$3(100,44,134),s.$3(24,13,30),s.$3(20,10,26),s.$3(34,14,46),s.$3(18,8,22))},
 a8F:function a8F(a,b,c,d,e,f,g,h,i){var _=this
 _.a=a
 _.b=b
@@ -39654,7 +39654,7 @@ return A.d0(B.az,k,B.O,B.bT)},
 $S:93}
 A.DM.prototype={
 O(a){var s=null,r=this.c,q=r.a
-return new A.hS(new A.at(0,this.d,0,1/0),A.e1(A.c([A.rn(A.dC("La FlorE du Sahara,\nune s\xe9rie documentaire",!0,A.io(s,s,B.i,s,s,s,s,s,"PlayfairDisplaySC",s,s,q,s,s,B.n,s,1.1,!0,s,1,s,s,s,s,s,s),B.cp,s),B.hR),A.dn(s,q*0.4,s),A.rn(A.dC("Une exploration en \xe9pisodes du patrimoine v\xe9g\xe9tal du Sahara marocain.",s,A.pZ().$4$color$fontSize$fontWeight$height(B.i.k7(0.9),r.c,B.n,1.5),B.cp,B.aP),B.mh),A.dn(s,q*0.6,s),new A.vh("D\xe9couvrir",new A.an4(a),s)],t.p),B.aA,B.F,B.ap),s)}}
+return new A.hS(new A.at(0,this.d,0,1/0),A.e1(A.c([A.rn(A.dC('Decouvrez les episodes de,\nla serie "The Saharan Flora"',!0,A.io(s,s,B.i,s,s,s,s,s,"PlayfairDisplaySC",s,s,q,s,s,B.n,s,1.1,!0,s,1,s,s,s,s,s,s),B.cp,s),B.hR),A.dn(s,q*0.4,s),A.rn(A.dC("Une exploration en \xe9pisodes du patrimoine v\xe9g\xe9tal du Sahara marocain.",s,A.pZ().$4$color$fontSize$fontWeight$height(B.i.k7(0.9),r.c,B.n,1.5),B.cp,B.aP),B.mh),A.dn(s,q*0.6,s),new A.vh("D\xe9couvrir",new A.an4(a),s)],t.p),B.aA,B.F,B.ap),s)}}
 A.an4.prototype={
 $0(){var s=A.asT(B.Qe,t.z)
 A.rh(this.a,!1).mL(s)},
@@ -39715,7 +39715,7 @@ return A.e1(A.c([new A.cI(new A.bf(s,j*0.03,s,0),r,m),p,new A.cI(new A.bf(s,0,s,
 $S:284}
 A.C7.prototype={
 O(a){var s=null,r=A.KH(this.e),q=r.c,p=$.Vm()[this.c]
-return A.e1(A.c([A.rn(A.dC("D\xc9COUVREZ LES \xc9PISODES DE\nLA FLORE SAHARIENNE",s,A.io(s,s,B.i,s,s,s,s,s,"PlayfairDisplaySC",s,s,r.b,s,s,B.n,s,1.1,!0,s,0.9,s,s,s,s,s,s),s,s),B.hR),A.dn(s,q*1.5,s),A.rn(A.dC("CHOISISSEZ UN \xc9PISODE",s,A.pZ().$4$color$fontSize$fontWeight$letterSpacing(B.i.k7(0.9),q*0.8,B.du,1.1),s,s),B.mf),B.Tw,A.rn(A.dC(p.c+" - "+p.a,s,A.pZ().$3$color$fontSize$fontWeight(B.i.k7(0.75),q,B.L),s,s),B.FD)],t.p),B.aA,B.F,B.ap)}}
+return A.e1(A.c([A.rn(A.dC('D\xc9COUVREZ LES \xc9PISODES DE\nla serie "The Saharan Flora"',s,A.io(s,s,B.i,s,s,s,s,s,"PlayfairDisplaySC",s,s,r.b,s,s,B.n,s,1.1,!0,s,0.9,s,s,s,s,s,s),s,s),B.hR),A.dn(s,q*1.5,s),A.rn(A.dC("CHOISISSEZ UN \xc9PISODE",s,A.pZ().$4$color$fontSize$fontWeight$letterSpacing(B.i.k7(0.9),q*0.8,B.du,1.1),s,s),B.mf),B.Tw,A.rn(A.dC(p.c+" - "+p.a,s,A.pZ().$3$color$fontSize$fontWeight(B.i.k7(0.75),q,B.L),s,s),B.FD)],t.p),B.aA,B.F,B.ap)}}
 A.Bj.prototype={
 ab(){return new A.NF()},
 Qv(a){return this.e.$1(a)}}
@@ -85470,7 +85470,7 @@ r($,"aUa","aqe",()=>{A.aJl()
 return B.AR})
 s($,"aTu","atG",()=>new A.a6W())
 s($,"aTw","Vm",()=>{var q="assets/EP 3 TAMARIX subs def.mp4"
-return A.c([A.wE(B.hC,"\xc9pisode 1","assets/page 3/episodes/episode_1.png","\u0627\u0644\u0643\u0645\u0634\u0629","lkamcha",q),A.wE(B.Em,"\xc9pisode 2","assets/page 3/episodes/episode_2.png","\u0637\u0631\u0641\u0629","Tarfa",q),A.wE(B.Ez,"\xc9pisode 3","assets/page 3/episodes/episode_3.png","\u0637\u0644\u062d \u0635\u062d\u0631\u0627\u0648\u064a","Talh sahraoui",q),A.wE(B.Es,"\xc9pisode 4","assets/page 3/episodes/episode_4.png","\u0643\u0645\u0648\u0646 \u0635\u0648\u0641\u064a","Kamoun soufi",q),A.wE(B.EF,"\xc9pisode 5","assets/page 3/episodes/episode_5.png","\u0623\u0643\u06af\u0627\u064a\u0629","Aagaya",q),A.wE(B.EJ,"\xc9pisode 6","assets/page 3/episodes/episode_6.png","\u0634\u064a\u0647\u064a\u0629","Chihia",q)],A.a1("v<H2>"))})
+return A.c([A.wE(B.hC,"\xc9pisode 1","assets/page 3/episodes/episode_1.png","\u0627\u0644\u0643\u0645\u0634\u0629","Tarfa",q),A.wE(B.Em,"\xc9pisode 2","assets/page 3/episodes/episode_2.png","\u0637\u0631\u0641\u0629","Lkamcha",q),A.wE(B.Ez,"\xc9pisode 3","assets/page 3/episodes/episode_3.png","\u0637\u0644\u062d \u0635\u062d\u0631\u0627\u0648\u064a","Talh sahraoui",q),A.wE(B.Es,"\xc9pisode 4","assets/page 3/episodes/episode_4.png","\u0643\u0645\u0648\u0646 \u0635\u0648\u0641\u064a","Kamoun soufi",q),A.wE(B.EF,"\xc9pisode 5","assets/page 3/episodes/episode_5.png","\u0623\u0643\u06af\u0627\u064a\u0629","Aagaya",q),A.wE(B.EJ,"\xc9pisode 6","assets/page 3/episodes/episode_6.png","\u0634\u064a\u0647\u064a\u0629","Chihia",q)],A.a1("v<H2>"))})
 s($,"aU0","aD9",()=>A.hD(B.fp,B.j,t.o))
 s($,"aTU","atM",()=>A.hD(B.j,B.NO,t.o))
 r($,"aSQ","aCk",()=>A.aF3(B.a_9,B.a_8))
